@@ -55,4 +55,9 @@ example:
 'rotate_range':   [-5., 5.],
      
 'pad_truth_to':   60,
+
+
+# Experimental Environment
+
+python3.6 tensorflow1.12
     
