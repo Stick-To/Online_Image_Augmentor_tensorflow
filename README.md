@@ -31,7 +31,7 @@
     
 :return   image: output_shape, HWC or CHW corresponding to input image
     
-:return   ground_truth: [pad_truth_to, 5]
+:return   ground_truth: [pad_truth_to, 5]  [ycenter, xcenter, h, w, class_id]
  
  
 example:   
